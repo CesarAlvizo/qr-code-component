@@ -8,8 +8,6 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 ## 📖 Descripción general
 
 ### 🧩 Vista previa del proyecto
-Agrega aquí una **captura de pantalla** del resultado final de tu componente.  
-> Puedes usar la herramienta de captura del navegador o cualquier software de tu preferencia.
 
 ![Vista previa del componente](ss-qr-component.png)
 
