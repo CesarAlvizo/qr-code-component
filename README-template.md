@@ -17,8 +17,8 @@ Agrega aquí una **captura de pantalla** del resultado final de tu componente.
 
 ### 🔗 Enlaces del proyecto
 
-- **Repositorio en GitHub:** [Agrega aquí la URL de tu repositorio](https://github.com/CesarAlvizo/qr-code-component.git)
-- **Sitio desplegado (opcional):** [Agrega aquí la URL del proyecto desplegado, si usaste Vercel o Netlify](https://qr-code-component-psi-pink.vercel.app/)
+- **Repositorio en GitHub:** [https://github.com/CesarAlvizo/qr-code-component.git](https://github.com/CesarAlvizo/qr-code-component.git)
+- **Sitio desplegado (opcional):** [https://qr-code-component-psi-pink.vercel.app/](https://qr-code-component-psi-pink.vercel.app/)
 
 ---
 
