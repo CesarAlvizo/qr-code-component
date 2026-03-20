@@ -1,52 +1,8 @@
 ---
-import "../styles/global.css";
+import Layout from "../layouts/Layout.astro";
+import QrCard from "../components/QrCard.astro";
 ---
 
-<html lang="en">
-	<head>
-		<meta charset="utf-8" />
-		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
-		<link
-			rel="icon"
-			type="image/png"
-			sizes="32x32"
-			href="/images/favicon-32x32.png"
-		/>
-		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-		<meta name="generator" content={Astro.generator} />
-		<title>QR code component</title>
-		<link rel="preconnect" href="https://fonts.googleapis.com" />
-		<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-		<link
-			href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap"
-			rel="stylesheet"
-		/>
-	</head>
-	<body
-		class="bg-[hsl(212,45%,89%)] font-['Outfit',sans-serif] min-h-screen flex items-center justify-center p-4"
-	>
-		<main
-			class="bg-white p-4 pb-10 rounded-[20px] shadow-[0_25px_25px_-10px_rgba(0,0,0,0.05)] max-w-[320px] w-full text-center"
-		>
-			<img
-				src="/images/image-qr-code.png"
-				alt="QR code to frontend mentor"
-				class="rounded-xl w-full h-auto"
-			/>
-
-			<div class="px-4 mt-6">
-				<h1
-					class="text-[hsl(218,44%,22%)] text-[22px] font-bold leading-tight"
-				>
-					Improve your front-end skills by building projects
-				</h1>
-				<p
-					class="text-[hsl(216,15%,48%)] text-[15px] mt-4 leading-tight"
-				>
-					Scan the QR code to visit Frontend Mentor and take your
-					coding skills to the next level
-				</p>
-			</div>
-		</main>
-	</body>
-</html>
+<Layout title="QR code component">
+	<QrCard />
+</Layout>

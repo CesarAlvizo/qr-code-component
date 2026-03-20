@@ -8,7 +8,7 @@ El objetivo es aplicar los conocimientos sobre **componentes**, **maquetación**
 ## 📖 Descripción general
 
 ### 🧩 Vista previa del proyecto
-
+Ñ
 ![Vista previa del componente](ss-qr-component.png)
 
 ---
